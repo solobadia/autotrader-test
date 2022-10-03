@@ -1,0 +1,51 @@
+/*
+THeme name: Autotrader Theme
+Text Domain:  Autotrader Theme
+Version: 1.0
+Description: Simple Theme
+Tags: left-sidebar, responsive, fancy
+Author: Solomon Obadia
+Author URI: https://anywebsite.com
+*/
+
+body {
+    background:#E2EBF3;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+header{
+    background:#fff;
+    width: 100%;
+    height: 100px;
+}
+
+
+.navigation li{
+
+     
+    display: inline;
+    margin-right: 20px;
+
+
+}
+      
+
+.container{
+
+    padding-top: 10px;   
+}
+
+
+
+.navigation{
+    padding: 0px;
+}
+
+img {
+	height: auto;
+	max-width: 100%;
+	vertical-align: middle;
+}
